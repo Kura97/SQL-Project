@@ -1,3 +1,1 @@
 # SQL-Project
-
-select * from 
